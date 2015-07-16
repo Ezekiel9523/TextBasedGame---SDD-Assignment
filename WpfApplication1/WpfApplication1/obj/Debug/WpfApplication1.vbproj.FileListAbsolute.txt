@@ -1,0 +1,16 @@
+C:\Users\william.james.lawson\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\william.james.lawson\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\william.james.lawson\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\william.james.lawson\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.xml
+C:\Users\william.james.lawson\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\StartMenu.baml
+C:\Users\william.james.lawson\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\GameWindow.baml
+C:\Users\william.james.lawson\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\StartMenu.g.vb
+C:\Users\william.james.lawson\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\GameWindow.g.vb
+C:\Users\william.james.lawson\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\Application.g.vb
+C:\Users\william.james.lawson\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\william.james.lawson\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\william.james.lawson\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Resources.resources
+C:\Users\william.james.lawson\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.vbproj.GenerateResource.Cache
+C:\Users\william.james.lawson\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\william.james.lawson\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.xml
+C:\Users\william.james.lawson\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
