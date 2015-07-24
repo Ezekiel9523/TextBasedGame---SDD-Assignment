@@ -31,7 +31,7 @@
         </Grid.RowDefinitions>
 
 
-        <TextBlock Grid.Row="0" FontSize="90" VerticalAlignment="Center" HorizontalAlignment="Center" FontFamily="Old English Text MT">Ye Old Text Game</TextBlock>
+        <TextBlock Grid.Row="0" FontSize="90" VerticalAlignment="Center" HorizontalAlignment="Center" FontFamily="Old English Text MT">Battle  of the Texts</TextBlock>
         <Button x:Name="Start" Grid.Row="1" Grid.Column="0">START</Button>
         <Button Grid.Row="2" Grid.Column="0">OPTIONS</Button>
         <Button Grid.Row="3" Grid.Column="0" >QUIT</Button>

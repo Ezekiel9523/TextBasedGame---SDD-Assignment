@@ -6,7 +6,15 @@ WpfApplication1
 </name>
 </assembly>
 <members>
-<member name="M:WpfApplication1.Application.InitializeComponent">
+<member name="M:WpfApplication1.StartMenu.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.StartMenu">
+	<summary>
+StartMenu
+</summary>
+</member><member name="M:WpfApplication1.Application.InitializeComponent">
 	<summary>
 InitializeComponent
 </summary>
@@ -25,14 +33,6 @@ InitializeComponent
 </member><member name="T:WpfApplication1.GameWindow">
 	<summary>
 GameWindow
-</summary>
-</member><member name="M:WpfApplication1.StartMenu.InitializeComponent">
-	<summary>
-InitializeComponent
-</summary>
-</member><member name="T:WpfApplication1.StartMenu">
-	<summary>
-StartMenu
 </summary>
 </member><member name="P:WpfApplication1.My.MyWpfExtension.Application">
 	<summary>
