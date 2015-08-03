@@ -1,0 +1,12 @@
+
+The #creature# turns towards you.
+
+Drawing your weapon, you prepare to fight.
+
+=============================================
+
+HP: #hp#	Enemy HP: #eHP#
+
+=============================================
+
+#Attacks#
