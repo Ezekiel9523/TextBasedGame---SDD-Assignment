@@ -18,10 +18,8 @@ C:\Users\matt.deveigne\Documents\TextBasedGame---SDD-Assignment\WpfApplication1\
 C:\Users\matt.deveigne\Documents\TextBasedGame---SDD-Assignment\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
 C:\Users\matt.deveigne\Documents\TextBasedGame---SDD-Assignment\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.xml
 C:\Users\matt.deveigne\Documents\TextBasedGame---SDD-Assignment\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+H:\TextBasedGame\WpfApplication1\WpfApplication1\bin\Debug\Resources\1.1 - WelcomeScreen.txt
 H:\TextBasedGame\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
-H:\TextBasedGame\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
-H:\TextBasedGame\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.xml
-H:\TextBasedGame\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
 H:\TextBasedGame\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
 H:\TextBasedGame\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
 H:\TextBasedGame\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.xml
@@ -34,3 +32,8 @@ H:\TextBasedGame\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_Marku
 H:\TextBasedGame\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
 H:\TextBasedGame\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Resources.resources
 H:\TextBasedGame\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.vbproj.GenerateResource.Cache
+H:\TextBasedGame\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+H:\TextBasedGame\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.xml
+H:\TextBasedGame\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+H:\TextBasedGame\WpfApplication1\WpfApplication1\bin\Debug\Resources\1.2 - Lore.txt
+H:\TextBasedGame\WpfApplication1\WpfApplication1\bin\Debug\Resources\2.1 - Intro.txt
