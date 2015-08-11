@@ -5,7 +5,7 @@
 
         Dim fileReader As String
 
-        fileReader = My.Computer.FileSystem.ReadAllText("Resources\1.1 - WelcomeScreen.txt")
+        fileReader = My.Computer.FileSystem.ReadAllText("C:\Users\william.james.lawson\Desktop\test.txt")
         TextScreen.Text = fileReader
 
     End Sub
@@ -16,32 +16,28 @@
 
     End Sub
 
-    Private Sub btnStart_Click(sender As Object, e As RoutedEventArgs)
+    Private Sub Button_Click_1(sender As Object, e As RoutedEventArgs)
+        Dim Frm As New OptionsWindow
 
-        btnStart.Visibility = Windows.Visibility.Hidden
-        btnNext.Visibility = Windows.Visibility.Visible
-
-        Dim fileReader As String
-
-        fileReader = My.Computer.FileSystem.ReadAllText("Resources\2.1 - Intro.txt")
-
-        TextScreen.Text = fileReader
+        Frm.ShowDialog()
 
     End Sub
 
-    Private Sub btnLore_Click(sender As Object, e As RoutedEventArgs)
+    Private Sub SkillsTab_Click(sender As Object, e As RoutedEventArgs) Handles SkillsTab.Click
+        Dim Frm As New SkillTab
 
+        Frm.ShowDialog()
+    End Sub
 
+    Private Sub Button_Click_2(sender As Object, e As RoutedEventArgs)
+        Dim Frm As New LevelUp
 
-        btnStart.Visibility = Windows.Visibility.Hidden
-        btnNext.Visibility = Windows.Visibility.Visible
-        btnLore.Visibility = Windows.Visibility.Hidden
-        btnBlank1.Visibility = Windows.Visibility.Visible
+        Frm.ShowDialog()
+    End Sub
 
-        Dim fileReader As String
+    Private Sub CharacterBtn_Click(sender As Object, e As RoutedEventArgs) Handles CharacterBtn.Click
+        Dim Frm As New CharItemWindow
 
-        fileReader = My.Computer.FileSystem.ReadAllText("Resources\1.2 - Lore.txt")
-        TextScreen.Text = fileReader
-
+        Frm.ShowDialog()
     End Sub
 End Class

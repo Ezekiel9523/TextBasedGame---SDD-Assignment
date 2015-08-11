@@ -6,7 +6,15 @@ WpfApplication1
 </name>
 </assembly>
 <members>
-<member name="M:WpfApplication1.StartMenu.InitializeComponent">
+<member name="M:WpfApplication1.SkillTab.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.SkillTab">
+	<summary>
+SkillTab
+</summary>
+</member><member name="M:WpfApplication1.StartMenu.InitializeComponent">
 	<summary>
 InitializeComponent
 </summary>
@@ -26,6 +34,14 @@ Application Entry Point.
 	<summary>
 Application
 </summary>
+</member><member name="M:WpfApplication1.LevelUp.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.LevelUp">
+	<summary>
+LevelUp
+</summary>
 </member><member name="M:WpfApplication1.GameWindow.InitializeComponent">
 	<summary>
 InitializeComponent
@@ -33,6 +49,38 @@ InitializeComponent
 </member><member name="T:WpfApplication1.GameWindow">
 	<summary>
 GameWindow
+</summary>
+</member><member name="M:WpfApplication1.OptionsWindow.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.OptionsWindow">
+	<summary>
+OptionsWindow
+</summary>
+</member><member name="M:WpfApplication1.OptionsWindow2.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.OptionsWindow2">
+	<summary>
+OptionsWindow2
+</summary>
+</member><member name="M:WpfApplication1.CharItemWindow.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.CharItemWindow">
+	<summary>
+CharItemWindow
+</summary>
+</member><member name="M:WpfApplication1.ItemsWindow.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.ItemsWindow">
+	<summary>
+ItemsWindow
 </summary>
 </member><member name="P:WpfApplication1.My.MyWpfExtension.Application">
 	<summary>
@@ -68,38 +116,6 @@ GameWindow
 	<summary>
   Overrides the current thread's CurrentUICulture property for all
   resource lookups using this strongly typed resource class.
-</summary>
-</member><member name="P:WpfApplication1.My.Resources.Resources._1_1___WelcomeScreen">
-	<summary>
-  Looks up a localized string similar to (Set Up 'start' and 'lore' buttons)
-
-Welcome to 'Battle of the Texts', a text based game made by Matt and Will.
-
-==========================================================================
-
-Here you will enter the world of Raen, a world ravanged by decades of war.
-
-Do you have what it takes to save Raen.
-
-You can click 'start' to begin
-
-or
-
-Click 'lore' to read up on everything that's happened so far..
-</summary>
-</member><member name="P:WpfApplication1.My.Resources.Resources._1_2___Lore">
-	<summary>
-  Looks up a localized string similar to .
-</summary>
-</member><member name="P:WpfApplication1.My.Resources.Resources._2_1___Intro">
-	<summary>
-  Looks up a localized string similar to 
-The world is foggy around you, yet you dont notice.
-Objects materialize around you, yet nothing seems wrong.
-Your suddenly at your home, in your bed, this doesnt seem odd to you.
-
-Sitting up, you look around, "Today's the day." you realise, this is when you head to the Capital.
-To join the other Chosen, to fight the Shadows..
 </summary>
 </member><member name="T:WpfApplication1.My.Resources.Resources">
 	<summary>

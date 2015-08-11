@@ -4,17 +4,17 @@
 winexe
 VB
 .vb
-H:\TextBasedGame\WpfApplication1\WpfApplication1\obj\Debug\
+C:\Users\matt.deveigne\Documents\TextBasedGame---SDD-Assignment\WpfApplication1\WpfApplication1\obj\Debug\
 WpfApplication1
 none
 false
 
-H:\TextBasedGame\WpfApplication1\WpfApplication1\Application.xaml
-2-399883232
+C:\Users\matt.deveigne\Documents\TextBasedGame---SDD-Assignment\WpfApplication1\WpfApplication1\Application.xaml
+81413277937
 
-8622242517
-12395994821
-StartMenu.xaml;GameWindow.xaml;
+141960910502
+10-2017953140
+CharItemWindow.xaml;ItemsWindow.xaml;LevelUp.xaml;OptionsWindow.xaml;OptionsWindow2.xaml;SkillTab.xaml;StartMenu.xaml;GameWindow.xaml;
 
 False
 

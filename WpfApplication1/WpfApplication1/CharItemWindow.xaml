@@ -1,0 +1,17 @@
+﻿<Window x:Class="CharItemWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="CharItemWindow" Height="427.8" Width="304">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="44*"/>
+            <RowDefinition Height="155*"/>
+        </Grid.RowDefinitions>
+        <TextBox HorizontalAlignment="Left" Height="378" Margin="95,10,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="191" Grid.RowSpan="2"/>
+        <Button x:Name="ItemsBtn" Content="Items" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="ExitBtnn" Content="Close" HorizontalAlignment="Left" Margin="10,278,0,0" VerticalAlignment="Top" Width="75" Grid.Row="1"/>
+        <Button x:Name="SkillsBtn" Content="Skills" HorizontalAlignment="Left" Margin="10,37,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="EditBtn" Content="Edit" HorizontalAlignment="Left" Margin="10,64,0,0" VerticalAlignment="Top" Width="75"/>
+
+    </Grid>
+</Window>

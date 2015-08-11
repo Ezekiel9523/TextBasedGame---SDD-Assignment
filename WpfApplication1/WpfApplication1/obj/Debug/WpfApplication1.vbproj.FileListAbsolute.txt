@@ -18,13 +18,21 @@ C:\Users\matt.deveigne\Documents\TextBasedGame---SDD-Assignment\WpfApplication1\
 C:\Users\matt.deveigne\Documents\TextBasedGame---SDD-Assignment\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
 C:\Users\matt.deveigne\Documents\TextBasedGame---SDD-Assignment\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.xml
 C:\Users\matt.deveigne\Documents\TextBasedGame---SDD-Assignment\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
-H:\TextBasedGame\WpfApplication1\WpfApplication1\bin\Debug\Resources\1.1 - WelcomeScreen.txt
-H:\TextBasedGame\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
-H:\TextBasedGame\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
-H:\TextBasedGame\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
-H:\TextBasedGame\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.xml
+H:\TextBasedGame\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+H:\TextBasedGame\WpfApplication1\WpfApplication1\obj\Debug\CharItemWindow.baml
+H:\TextBasedGame\WpfApplication1\WpfApplication1\obj\Debug\ItemsWindow.baml
+H:\TextBasedGame\WpfApplication1\WpfApplication1\obj\Debug\LevelUp.baml
+H:\TextBasedGame\WpfApplication1\WpfApplication1\obj\Debug\OptionsWindow.baml
+H:\TextBasedGame\WpfApplication1\WpfApplication1\obj\Debug\OptionsWindow2.baml
+H:\TextBasedGame\WpfApplication1\WpfApplication1\obj\Debug\SkillTab.baml
 H:\TextBasedGame\WpfApplication1\WpfApplication1\obj\Debug\StartMenu.baml
 H:\TextBasedGame\WpfApplication1\WpfApplication1\obj\Debug\GameWindow.baml
+H:\TextBasedGame\WpfApplication1\WpfApplication1\obj\Debug\CharItemWindow.g.vb
+H:\TextBasedGame\WpfApplication1\WpfApplication1\obj\Debug\ItemsWindow.g.vb
+H:\TextBasedGame\WpfApplication1\WpfApplication1\obj\Debug\LevelUp.g.vb
+H:\TextBasedGame\WpfApplication1\WpfApplication1\obj\Debug\OptionsWindow.g.vb
+H:\TextBasedGame\WpfApplication1\WpfApplication1\obj\Debug\OptionsWindow2.g.vb
+H:\TextBasedGame\WpfApplication1\WpfApplication1\obj\Debug\SkillTab.g.vb
 H:\TextBasedGame\WpfApplication1\WpfApplication1\obj\Debug\StartMenu.g.vb
 H:\TextBasedGame\WpfApplication1\WpfApplication1\obj\Debug\GameWindow.g.vb
 H:\TextBasedGame\WpfApplication1\WpfApplication1\obj\Debug\Application.g.vb
@@ -32,8 +40,9 @@ H:\TextBasedGame\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_Marku
 H:\TextBasedGame\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
 H:\TextBasedGame\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Resources.resources
 H:\TextBasedGame\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.vbproj.GenerateResource.Cache
-H:\TextBasedGame\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
-H:\TextBasedGame\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.xml
 H:\TextBasedGame\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
-H:\TextBasedGame\WpfApplication1\WpfApplication1\bin\Debug\Resources\1.2 - Lore.txt
-H:\TextBasedGame\WpfApplication1\WpfApplication1\bin\Debug\Resources\2.1 - Intro.txt
+H:\TextBasedGame\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+H:\TextBasedGame\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+H:\TextBasedGame\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+H:\TextBasedGame\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.xml
+H:\TextBasedGame\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.xml

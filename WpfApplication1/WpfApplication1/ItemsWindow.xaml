@@ -1,0 +1,16 @@
+﻿<Window x:Class="ItemsWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="ItemsWindow" Height="256" Width="211">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+        <TextBox x:Name="TBItem" HorizontalAlignment="Left" Height="179" Margin="90,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="103"/>
+        <Button x:Name="DropBtn" Content="Drop" HorizontalAlignment="Left" Margin="10,37,0,0" VerticalAlignment="Top" Width="75" Height="22"/>
+        <Button x:Name="UseBtn" Content="Use" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="CloseBtnn" Content="Close" HorizontalAlignment="Left" Margin="90,194,0,0" VerticalAlignment="Top" Width="103"/>
+
+    </Grid>
+</Window>
