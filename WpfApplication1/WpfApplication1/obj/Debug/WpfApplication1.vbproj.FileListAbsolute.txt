@@ -46,3 +46,7 @@ H:\TextBasedGame\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
 H:\TextBasedGame\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
 H:\TextBasedGame\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.xml
 H:\TextBasedGame\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.xml
+C:\Users\william.james.lawson\Documents\TextBasedGame---SDD-Assignment\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\william.james.lawson\Documents\TextBasedGame---SDD-Assignment\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\william.james.lawson\Documents\TextBasedGame---SDD-Assignment\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.xml
+C:\Users\william.james.lawson\Documents\TextBasedGame---SDD-Assignment\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
