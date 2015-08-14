@@ -5,7 +5,7 @@
 
         Dim fileReader As String
 
-        fileReader = My.Computer.FileSystem.ReadAllText("C:\Users\william.james.lawson\Desktop\test.txt")
+        fileReader = My.Computer.FileSystem.ReadAllText("Resources\1.1 - WelcomeScreen.txt")
         TextScreen.Text = fileReader
 
     End Sub

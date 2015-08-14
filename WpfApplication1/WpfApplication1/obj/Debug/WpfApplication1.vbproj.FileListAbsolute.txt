@@ -81,3 +81,34 @@ C:\Users\william.james.lawson\Documents\TextBasedGame---SDD-Assignment\WpfApplic
 C:\Users\william.james.lawson\Documents\TextBasedGame---SDD-Assignment\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
 C:\Users\william.james.lawson\Documents\TextBasedGame---SDD-Assignment\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Resources.resources
 C:\Users\william.james.lawson\Documents\TextBasedGame---SDD-Assignment\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.vbproj.GenerateResource.Cache
+C:\Users\matt.deveigne\Documents\TextBasedGame---SDD-Assignment\WpfApplication1\WpfApplication1\bin\Debug\Resources\0.1 - Fight.txt
+C:\Users\matt.deveigne\Documents\TextBasedGame---SDD-Assignment\WpfApplication1\WpfApplication1\bin\Debug\Resources\1.1 - WelcomeScreen.txt
+C:\Users\matt.deveigne\Documents\TextBasedGame---SDD-Assignment\WpfApplication1\WpfApplication1\bin\Debug\Resources\1.2 - Lore.txt
+C:\Users\matt.deveigne\Documents\TextBasedGame---SDD-Assignment\WpfApplication1\WpfApplication1\bin\Debug\Resources\2.2 - Intro.txt
+C:\Users\matt.deveigne\Documents\TextBasedGame---SDD-Assignment\WpfApplication1\WpfApplication1\bin\Debug\Resources\0.1 - FightLose.txt
+C:\Users\matt.deveigne\Documents\TextBasedGame---SDD-Assignment\WpfApplication1\WpfApplication1\bin\Debug\Resources\0.1 - FightWin.txt
+C:\Users\matt.deveigne\Documents\TextBasedGame---SDD-Assignment\WpfApplication1\WpfApplication1\bin\Debug\Resources\2.1 - Intro.txt
+C:\Users\matt.deveigne\Documents\TextBasedGame---SDD-Assignment\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\matt.deveigne\Documents\TextBasedGame---SDD-Assignment\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\matt.deveigne\Documents\TextBasedGame---SDD-Assignment\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.xml
+C:\Users\matt.deveigne\Documents\TextBasedGame---SDD-Assignment\WpfApplication1\WpfApplication1\obj\Debug\CharItemWindow.baml
+C:\Users\matt.deveigne\Documents\TextBasedGame---SDD-Assignment\WpfApplication1\WpfApplication1\obj\Debug\ItemsWindow.baml
+C:\Users\matt.deveigne\Documents\TextBasedGame---SDD-Assignment\WpfApplication1\WpfApplication1\obj\Debug\LevelUp.baml
+C:\Users\matt.deveigne\Documents\TextBasedGame---SDD-Assignment\WpfApplication1\WpfApplication1\obj\Debug\OptionsWindow.baml
+C:\Users\matt.deveigne\Documents\TextBasedGame---SDD-Assignment\WpfApplication1\WpfApplication1\obj\Debug\OptionsWindow2.baml
+C:\Users\matt.deveigne\Documents\TextBasedGame---SDD-Assignment\WpfApplication1\WpfApplication1\obj\Debug\SkillTab.baml
+C:\Users\matt.deveigne\Documents\TextBasedGame---SDD-Assignment\WpfApplication1\WpfApplication1\obj\Debug\StartMenu.baml
+C:\Users\matt.deveigne\Documents\TextBasedGame---SDD-Assignment\WpfApplication1\WpfApplication1\obj\Debug\GameWindow.baml
+C:\Users\matt.deveigne\Documents\TextBasedGame---SDD-Assignment\WpfApplication1\WpfApplication1\obj\Debug\CharItemWindow.g.vb
+C:\Users\matt.deveigne\Documents\TextBasedGame---SDD-Assignment\WpfApplication1\WpfApplication1\obj\Debug\ItemsWindow.g.vb
+C:\Users\matt.deveigne\Documents\TextBasedGame---SDD-Assignment\WpfApplication1\WpfApplication1\obj\Debug\LevelUp.g.vb
+C:\Users\matt.deveigne\Documents\TextBasedGame---SDD-Assignment\WpfApplication1\WpfApplication1\obj\Debug\OptionsWindow.g.vb
+C:\Users\matt.deveigne\Documents\TextBasedGame---SDD-Assignment\WpfApplication1\WpfApplication1\obj\Debug\OptionsWindow2.g.vb
+C:\Users\matt.deveigne\Documents\TextBasedGame---SDD-Assignment\WpfApplication1\WpfApplication1\obj\Debug\SkillTab.g.vb
+C:\Users\matt.deveigne\Documents\TextBasedGame---SDD-Assignment\WpfApplication1\WpfApplication1\obj\Debug\StartMenu.g.vb
+C:\Users\matt.deveigne\Documents\TextBasedGame---SDD-Assignment\WpfApplication1\WpfApplication1\obj\Debug\GameWindow.g.vb
+C:\Users\matt.deveigne\Documents\TextBasedGame---SDD-Assignment\WpfApplication1\WpfApplication1\obj\Debug\Application.g.vb
+C:\Users\matt.deveigne\Documents\TextBasedGame---SDD-Assignment\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\matt.deveigne\Documents\TextBasedGame---SDD-Assignment\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\matt.deveigne\Documents\TextBasedGame---SDD-Assignment\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Resources.resources
+C:\Users\matt.deveigne\Documents\TextBasedGame---SDD-Assignment\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.vbproj.GenerateResource.Cache
